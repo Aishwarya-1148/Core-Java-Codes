@@ -33,21 +33,7 @@ public class IncrementDecrement {
 		System.out.println("x = "+ x + " a = "+ a ); // x = 10, a = 10
 		
 		
-		
-		
-		
-		
-		
-		
-//		for(int i = 1 ; i <= 5 ; i++ )
-//		{
-//			System.out.println(i);
-//		}
-		
-		//post increment operator : i++ ( i = i + 1 )
-		
-		
-		
+	
 		
 		
 	}
