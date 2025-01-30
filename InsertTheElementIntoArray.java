@@ -56,29 +56,7 @@ public class InsertTheElementIntoArray {
 		for(int i = 0 ; i < newArray.length ; i++)
 		{
 			System.out.print(newArray[i] +" ");
-		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		}		
 		
 	}
 }
